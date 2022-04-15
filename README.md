@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeshark20, a to-be programmer.
+- 👋 Hi, I’m @codeshark20, rather new to Github, and a to-be programmer.
 - 👀 I’m interested in Python, especially it's uses and Unity.
 - 🌱 I’m currently learning to create text-based games, beginning with my first game.
 - 💞️ I’m looking to collaborate on building a text-based game in Python, inspired by Unciv.
